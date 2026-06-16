@@ -1,1 +1,5 @@
-heello
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=746664&width=435&height=43&lines=mango+mango+mango;hello+tuff+mangophonk;chat+im+tuff%3F;*is+chiseled+tuff+block*;dangomilk+more+like+mangophonk;what+the+heckkk+im+so+tuff;yoo+im+tufff+im+so+tuffff" alt="Typing SVG" /></a>
+
+</div>
