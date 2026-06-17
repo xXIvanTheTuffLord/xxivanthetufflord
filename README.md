@@ -13,6 +13,4 @@
 [sign ata](tuff.atabook.org)
 </div>
 
-<div align="center">
- boii
-</div>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=xxivanthetufflord&color=746664&style=for-the-badge&label=❝+Tuff+Blocks+❞+&base=30"></img></p>
