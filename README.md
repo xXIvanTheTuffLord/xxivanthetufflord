@@ -12,3 +12,7 @@
   
 [sign ata](tuff.atabook.org)
 </div>
+
+<div align="center">
+  <a href="https://hits.sh/github.com/xXIvanTheTuffLord/"><img alt="Hits" src="https://hits.sh/github.com/xXIvanTheTuffLord.svg?style=flat-square&label=tuff blocks&extraCount=10&color=615554&labelColor=423B38"/></a>
+</div>
