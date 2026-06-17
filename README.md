@@ -4,4 +4,4 @@
 
 </div>
 
-<div align="left"> hi guys im pretty tuff arent i... </div> <div align="right"> <img src=https://file.garden/afOzvZALWB7P0ssM/Screenshot_2026-06-16_185113-removebg-preview.png> </div>
+<div align="left"> hi <br> id like to say im p tuff <br> dont listen to the haters </div> <div align="right"> <img src=https://file.garden/afOzvZALWB7P0ssM/Screenshot_2026-06-16_185113-removebg-preview.png> </div>
