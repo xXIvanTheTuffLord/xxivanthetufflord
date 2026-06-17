@@ -4,7 +4,9 @@
 
 </div>
 
-<img align="left"> <img src=https://file.garden/afOzvZALWB7P0ssM/Screenshot_2026-06-16_185113-removebg-preview.png>
+<img align="left">
+<img src=https://file.garden/afOzvZALWB7P0ssM/Screenshot_2026-06-16_185113-removebg-preview.png>
+</img>
 
 <div align="center">
   
